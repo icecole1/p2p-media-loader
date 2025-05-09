@@ -32,7 +32,7 @@
   "dependencies": {
     "p2p-graph": "^2.0.0",
     "p2p-media-loader-core": "^0.6.2",
-    "p2p-media-loader-hlsjs": "^0.6.2",
+    "p2p-media-loader-hlsjs": "^1.0.0",
     "p2p-media-loader-shaka": "^0.6.2"
   },
   "devDependencies": {
